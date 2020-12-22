@@ -8,7 +8,8 @@ module.exports = {
     .setAuthor("Commands")
     .setDescription(`!1 - спам
 !2 - краш
-!3 - спам в лс`)
+!3 - спам в лс
+!invite - пригласить бота`)
     message.channel.send(e)
   }
 }
